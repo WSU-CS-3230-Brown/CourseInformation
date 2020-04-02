@@ -13,6 +13,7 @@
   - [Students With Disabilities](#students-with-disabilities)
   - [Course Fee](#course-fee)
   - [Class Format](#class-format)
+  - [Keys to Success](#keys-to-success)
   - [Assignments](#assignments)
   - [Asking Questions](#asking-questions)
   - [Grading](#grading)
@@ -34,8 +35,7 @@ This is the official course description.
 
 > An intermediate programming course that covers the “core” features of the Java programming language with the goal of preparing students to focus on specialized uses of Java. Topics include object-oriented programming and polymorphism, graphics, event handling, building graphical user interfaces with Swing, multithreading and synchronization, and error handling. Prerequisite: CS 2420.
 
-My goal of this course will be for you to become better ENGINEERS. Not just a regurgitator of
-facts and code snippets.
+My goal of this course will be for you to become better ENGINEERS. Not just be able to recite facts and code snippets.
 
 ## Book ##
 
@@ -70,10 +70,19 @@ instructional resources.
 
 ## Class Format ##
 
-The class will consist of homework assignments, in-class activities and a final project. With the COVID-19 orders for no public gatherings we will be having virtual classes. Attendance in these classes will be vital for your success in the class for several reasons:
+The class will consist of homework assignments, in-class activities and a final project. With the COVID-19 orders for no public gatherings we will be having virtual classes using Zoom. Attendance in these classes will be vital for your success in the class for several reasons:
   * In-class exercises/activities that will count towards your grade
   * I will go over homework assignment instructions in class
   * If you are struggling with keeping up on the homework assignments but you are coming to class it doesn't allow me any time to help you
+
+## Keys to Success ##
+
+1. 100% attendance
+2. If you must miss class let me know so we can work out anything you need to make up
+3. Ask questions during class
+4. Check the canvas announcements
+5. Post any questions outside of class on the canvas discussion board
+6. Turn in every assignment
 
 ## Assignments ##
 
