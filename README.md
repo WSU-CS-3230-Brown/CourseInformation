@@ -1,6 +1,6 @@
 # Syllabus - CS 3230 Object Oriented User Interface #
 
-<img align="center" alt="C# Weber CS" src="https://avatars1.githubusercontent.com/u/62850736?s=200&v=4">
+<img align="center" alt="Java" src="https://avatars1.githubusercontent.com/u/62850736?s=200&v=4">
 
 ## Contents ##
 
