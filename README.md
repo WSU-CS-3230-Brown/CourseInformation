@@ -25,7 +25,7 @@
 
 My name is Ethan Brown. I'm a Weber State Alumni and a Software Engineer at local startup called TaxBit. I have experience working for big companies like Adobe and 3M as well. You can connect with me on linkedIn at [linkedin.com/in/ethan-brown-dev](https://www.linkedin.com/in/ethan-brown-dev/).
 
-I mostly work with python and bash in my day-to-day work. This just means I will need you all to call me out as I miss those semi-colons and curly braces during demos. I've learned in my career the importance of knowing universal problem sovling and engineering skills over just learning the nuances of a language. Anyone can memorize syntax, engineers solve problems.
+I mostly work with python and Javascript in my day-to-day work. I've learned in my career the importance of knowing universal problem sovling and engineering skills over just learning the nuances of a language. Anyone can memorize syntax, engineers solve problems.
 
 ![Python Dev](python-java.png "python dev in java")
 
@@ -33,14 +33,13 @@ I mostly work with python and bash in my day-to-day work. This just means I will
 
 This is the official course description.
 
-> An intermediate programming course that covers the “core” features of the Java programming language with the goal of preparing students to focus on specialized uses of Java. Topics include object-oriented programming and polymorphism, graphics, event handling, building graphical user interfaces with Swing, multithreading and synchronization, and error handling. Prerequisite: CS 2420.
+> An intermediate programming course that covers the “core” features of the Java programming language with the goal of preparing students to focus on specialized uses of Java. Topics include object-oriented programming and polymorphism, graphics, event handling, building graphical user interfaces with Swing or JavaFX, multithreading and synchronization, and error handling. Prerequisite: CS 2420.
 
-My goal of this course will be for you to become better ENGINEERS. Not just be able to recite facts and code snippets.
+My goal of this course will be for you to become better ENGINEERS. Not just be able to recite facts and code snippets. When it comes to using Swing or JavaFX, we might not dive very deep into that since they are antiquated.
 
 ## Book ##
 
-The book is **optional** but it might be a useful reference. I will be using it to prepare
-classroom lectures but there will no assignments directly out of the book.
+The book is **optional** but it might be a useful reference. There will no assignments directly out of the book.
 
 * Core Java Volume 1 (Latest edition is 11 but anything published in the past few years is fine)
 
@@ -52,7 +51,7 @@ We will be using Java 11 and git. I recommend you use the Amazon Corretto distri
 We will cover how to download it as well as git in class.
 
 * IntelliJ Community Edition (As students you have access to the enterprise edition for free but it's not necessary)
-* VS Code or another source-code editor
+* VS Code (recommended) or another source-code editor (vim, emacs, sublime, etc.)
 * git - you will need a github account as well
 
 ## Students With Disabilities ##
@@ -77,7 +76,7 @@ The class will consist of homework assignments, in-class activities and a final 
 
 ## Keys to Success ##
 
-1. 100% attendance
+1. 100% attendance (video **on** for virtual classes)
 2. If you must miss class let me know so we can work out anything you need to make up
 3. Ask questions during class
 4. Check the canvas announcements
@@ -88,7 +87,7 @@ The class will consist of homework assignments, in-class activities and a final 
 
 The course will be broken up into 2 parts. The first part will consist of smaller
 assignments that will be focused on learning general concepts of JAVA and programming paradigms.
-The second part will be focused on a final group project.
+The second part will be focused on a final project.
 
 * Assignments will be given with plenty of time to complete
 * I will allow time in class to work
@@ -136,25 +135,4 @@ There will be opportunities for some extra credit. They involve helping me refin
 
 ## Schedule ##
 
-The Schedule is a ***tentative*** outline of what we will cover. I reserve the right to adjust the schedule to better meet
-the class needs. My goal would be to finish up the topics earlier to allow more time for
-the final project. I will be your guide through this and we will speed up and slow down as
-needed.
-
-| Week | Days                    | Material                                             |
-| ---- | ----------------------- | :--------------------------------------------------- |
-| 1    | May 5th, 7th            | Course Introduction and Install Software |
-| 2    | May 12th, 14th          | Developer Productivity: Command Line and git |
-| 3    | May 19th, 21st          | Java Basics Review - Expressions, Statements, Blocks, etc. |
-| 4    | May 26th, 28th          | Methods and Control Flow Statements |
-| 5    | Jun 2nd, 4th            | Classes and Objects |
-| 6    | Jun 9th, 11th           | Object Oriented Design: Inheritance and Polymorphism |
-| 7    | Jun 16th, 18th          | Arrays, Generics and Collections |
-| 8    | Jun 23rd, 25th          | Inner and Abstract Classes, Interfaces, Lambda Expressions |
-| 9    | Jun 30th, July 2nd      | Exception Handling |
-| 10   | Jun 7th, 9th            | GUI Concepts |
-| 11   | Jul 14th, 16th          | Network Programming |
-| 12   | Jul 21st, 23rd          | Concurrency |
-| 13   | Jul 28th, 30th          | REST APIs and HTTP |
-| 14   | Aug 4th, 6th            | Final Project |
-| 15   | Aug 11th, 13th          | Final Project Due the 13th by midnight |
+I have reworked the curriculum for this year. The schedule will be updated every week on canvas so you can get a heads up of what's coming. The course will be taylored to how I feel the students are doing so it is important you are attending class and are asking questions.
