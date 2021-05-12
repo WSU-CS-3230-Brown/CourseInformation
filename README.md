@@ -135,4 +135,4 @@ There will be opportunities for some extra credit. They involve helping me refin
 
 ## Schedule ##
 
-I have reworked the curriculum for this year. The schedule will be updated every week on canvas so you can get a heads up of what's coming. The course will be taylored to how I feel the students are doing so it is important you are attending class and are asking questions.
+I have reworked the curriculum for this year. The schedule will be updated every week on canvas so you can get a heads up of what's coming. The course will be tailored to how I feel the students are doing so it is important you are attending class and are asking questions.
