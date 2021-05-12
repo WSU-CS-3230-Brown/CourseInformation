@@ -106,7 +106,7 @@ and ask. There are 3 resources for asking questions.
 
 1. In Class
 2. Canvas Discussion Boards
-3. direct email to me (only use this if it is a personal matter or urgent)
+3. direct email to me (only use this if it is a personal matter or urgent) [ethanbrown3@mail.weber.edu](ethanbrown3@mail.weber.edu)
 
 ## Grading ##
 
